@@ -92,7 +92,7 @@ const userData = {
       desc: "C.B.S.E. syllabus with CCE exams. CGPA: 9.6/10",
     }
   ],
-  resumeUrl: "https://drive.google.com/file/d/18ipXcTi_-GFAtT5tBKdbw7657ZIWER0j/view?usp=sharing",
+  resumeUrl: "https://drive.google.com/file/d/11R670vrx5qUZOOEu8wcrZg15VLot8ICx/view?usp=sharing",
   socialLinks: {
     instagram: "https://instagram.com/rakshit__agarwal",
     twitter: "https://twitter.com/RakshitAgarwal3",
