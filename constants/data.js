@@ -5,7 +5,7 @@ const userData = {
   avatarUrl: "/avatar.jpeg",
   email: "rakshit.agarwal@outlook.com",
   phone: "+91 9997443874",
-  address: "Moradabad, Uttar Pradesh, India.",
+  address: "Ahmedabad, Gujarat, India.",
   projects: [
     {
       title: "Sales Dashboard",
