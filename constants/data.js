@@ -3,7 +3,7 @@ const userData = {
   name: "Rakshit Agarwal",
   designation: "Full-Stack Developer",
   avatarUrl: "/avatar.jpeg",
-  email: "rakshitag13@gmail.com",
+  email: "rakshit.agarwal@outlook.com",
   phone: "+91 9997443874",
   address: "Moradabad, Uttar Pradesh, India.",
   projects: [
